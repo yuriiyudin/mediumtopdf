@@ -7,7 +7,7 @@ import 'package:uuid/uuid.dart';
 
 Future<Response> onRequest(RequestContext context) async {
   return switch (context.request.method) {
-    HttpMethod.get => getPdfFromLink(context),
+    HttpMethod.post => getPdfFromLink(context),
     _ => Future.value(
         Response(
           statusCode: HttpStatus.badRequest,
