@@ -6,7 +6,7 @@ The project can be deployed to the server using a Docker file located in the bui
 
 Frontend: Medium to PDF Flutter - a web application (Chrome) connected via a web API -  https://github.com/yuriiyudin/mediumtopdf_flutter
 
-You can view a working example at this link https://github.com/yuriiyudin/mediumtopdf_flutter](https://yuriiyudin.github.io/mediumtopdf_flutter/  
+You can view a working example at this link https://github.com/yuriiyudin/mediumtopdf_flutter
 
 The project is deployed on a private Ubuntu VPS.
 
